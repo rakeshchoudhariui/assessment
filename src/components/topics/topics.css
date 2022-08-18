@@ -1,0 +1,19 @@
+.card-container {
+  margin: 20px;
+  min-width: 300px;
+  max-width: fit-content;
+  background: rgb(240, 243, 243) !important;
+}
+
+.card-related-topics {
+  padding: 0px 20px;
+}
+
+.related-topic {
+  cursor: pointer;
+}
+
+.related-topic:hover {
+  text-decoration: underline;
+  color: rgb(126, 126, 226);
+}
